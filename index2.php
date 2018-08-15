@@ -1,3 +1,3 @@
-<?php 
-echo"code dari internet";
+<?php
+echo"code dari internet 2";
 ?>
